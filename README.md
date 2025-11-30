@@ -14,23 +14,20 @@ A Spring Boot backend application for managing a digital wallet. This project he
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Java 17**
-- **Spring Boot**
-- **Spring Data JPA**
-- **Lombok**
-- **H2 Database**
-- **Maven**
+## 🛠 Tech Stack
+- Java 17
+- Spring Boot
+- Spring Data JPA
+- Lombok
+- H2 Database
+- Maven
 
 ---
 
 ## 🚀 Running the Project
 
-```bash
-mvn spring-boot:run
 
-
+---
 
 ## 📸 Screenshots
 
@@ -39,5 +36,3 @@ mvn spring-boot:run
 
 ### **Wallet Application Running**
 ![Wallet Running](https://raw.githubusercontent.com/Peter-c-dev/personalwallet/main/Wallet%20Working%20Screenshot.png)
-
-
