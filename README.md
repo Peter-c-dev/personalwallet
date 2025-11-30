@@ -31,7 +31,6 @@ A Spring Boot backend application for managing a digital wallet. This project he
 mvn spring-boot:run
 
 
----
 
 ## 📸 Screenshots
 
