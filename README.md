@@ -30,7 +30,12 @@ A Spring Boot backend application for managing a digital wallet. This project he
 ```bash
 mvn spring-boot:run
 
-![Wallet Screenshot](https://raw.githubusercontent.com/Peter-c-dev/personalwallet/main/Personal%20Wallet%20Screenshot%202.png)
+## 📸 Screenshots
+
+### Wallet API – Users Endpoint
+![Users Endpoint](https://raw.githubusercontent.com/Peter-c-dev/personalwallet/main/Personal%20Wallet%20Screenshot%202.png)
+
+### Wallet Application Running
 ![Wallet Running](https://raw.githubusercontent.com/Peter-c-dev/personalwallet/main/Wallet%20Working%20Screenshot.png)
 
 
