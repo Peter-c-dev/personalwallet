@@ -29,3 +29,6 @@ A Spring Boot backend application for managing a digital wallet. This project he
 
 ```bash
 mvn spring-boot:run
+
+https://github.com/Peter-c-dev/personalwallet/blob/a86288a89a1743a990878fe56213d706e19d6aee/Personal%20Wallet%20Screenshot%202.png
+
