@@ -1,33 +1,37 @@
-# Personal Wallet API
+# 💰 Personal Wallet API
 
-A Spring Boot backend application for managing a digital wallet. This project helped me strengthen my understanding of entity relationships, REST API design, and backend architecture using Spring Boot, JPA, and Lombok.
+A Spring Boot backend application for managing a digital wallet.  
+This project helped me strengthen my understanding of entity relationships, REST API design, and backend architecture using Spring Boot, JPA, and Lombok.
 
 ---
 
-## 📌 Features
+## 🚀 Features
 
 - Create and manage wallets  
 - Deposit and withdraw funds  
 - Track transaction history  
-- One-to-Many relationship between Wallet and Transactions  
-- Built using clean and modular backend structure  
+- One-to-many relationship between Wallet and Transactions  
+- Clean and modular backend structure  
 
 ---
 
-## 🛠 Tech Stack
-- Java 17
-- Spring Boot
-- Spring Data JPA
-- Lombok
-- H2 Database
-- Maven
+## 🛠️ Tech Stack
+
+- Java 17  
+- Spring Boot  
+- Spring Data JPA  
+- Lombok  
+- H2 Database  
+- Maven  
 
 ---
 
-## 🚀 Running the Project
+## ▶️ Running the Project
 
+To start the application:
 
----
+```bash
+mvn spring-boot:run
 
 ## 📸 Screenshots
 
