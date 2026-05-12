@@ -40,10 +40,10 @@ mvn spring-boot:run
 ## 📸 Screenshots
 
 ### 💳 Wallet API – Users Endpoint
-![Users Endpoint](screenshots/personal-wallet-users-endpoint.png)
+![Users Endpoint](screenshots/personal-wallet-running.png)
 
 ### ▶️ Wallet Application Running
-![Wallet Running](screenshots/personal-wallet-running.png)
+![Wallet Running](screenshots/personal-wallet-api-running.png)
 
 ---
 
